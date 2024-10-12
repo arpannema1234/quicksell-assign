@@ -1,0 +1,9 @@
+.error img {
+  height: 38px;
+  width: 38px;
+  border-radius: 20px;
+}
+.error {
+  display: flex;
+  align-items: center;
+}

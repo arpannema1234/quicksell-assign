@@ -1,0 +1,11 @@
+.img {
+  position: relative;
+  display: 200px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.img img {
+  height: 38px;
+  width: 38px;
+  border-radius: 50px;
+}
